@@ -1,4 +1,4 @@
-import { type Route, route, serveDir } from "@std/http";
+import { type Route, route } from "@std/http";
 
 const routes: Route[] = [
   {
