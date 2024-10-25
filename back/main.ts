@@ -17,7 +17,7 @@ const routes: Route[] = [
     // save update deck (exportDeck)
     method: "PATCH",
     pattern: new URLPattern({ pathname: "/deck" }),
-    handler: () => new Response("download deck"),
+    handler: () => new Response("Save the deck"),
   },
   {
     method: "GET",
@@ -51,8 +51,8 @@ const routes: Route[] = [
   {
     // Commit a new card from the mongodb into the anki deck.
     method: "PATCH",
-    pattern: new URLPattern({ pathname: "/card/new/save" }),
-    handler: () => new Response("write all added cards to the deck"),
+    pattern: new URLPattern({ pathname: "/card/new/save/:id" }),
+    handler: () => new Response("write selected card to the anki deck"),
   },
 ];
 
