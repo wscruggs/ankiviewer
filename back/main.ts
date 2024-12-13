@@ -3,7 +3,7 @@ import { type Route, route } from "@std/http";
 const routes: Route[] = [
   {
     method: "GET",
-    pattern: new URLPattern({ pathname: "/deck/" }),
+    pattern: new URLPattern({ pathname: "/deck" }),
     handler: () => new Response("get deck"),
     
   },

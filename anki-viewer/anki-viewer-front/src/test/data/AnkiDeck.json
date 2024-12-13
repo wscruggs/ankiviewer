@@ -1,0 +1,19 @@
+[{
+    "Id": "1666226332917",
+    "Japanese": "環境",
+    "Reading": "かんきょう",
+    "Meaning": "Environment",
+    "Note": "May take the particle 'no",
+    "Sentence": "この URL は、Azure環境によって異なります",
+    "Sentence_Meaning": "this URL will vary depending on your Azure environment.",
+    "Link": "takoboto"
+},{
+    "Id": "1666226379693",
+    "Japanese": "構築",
+    "Reading": "こうちく",
+    "Meaning": "construction, building, putting up, erecting, creationg, formulation, architecture",
+    "Note": "May take the particle 'no",
+    "Sentence": "次の図は、リソースを管理するためのアクセス制限するソリューションの構築方法を示しています。",
+    "Sentence_Meaning": "The following diagram illustrates howt o build a solution to restrict access to manage resources.",
+    "Link": "takoboto"
+}]

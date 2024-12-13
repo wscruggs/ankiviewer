@@ -1,0 +1,25 @@
+[{
+  "_id":"6397dd16fdfe9735771085fe",
+  "Japanese": "暗記",
+  "Reading": "あんき",
+  "Meaning": "Memorization",
+  "Note": "a note",
+  "Sentence": "暗記は言葉",
+  "Sentence_Meaning": "Anki is a word"
+},{
+  "_id": "6397dee6fdfe9735771085ff",
+  "Japanese": "失敗",
+  "Reading": "しっぱい",
+  "Meaning": "Failure",
+  "Note": "a note",
+  "Sentence": "失敗しました",
+  "Sentence_Meaning": "I failed"
+},{
+  "_id": "6397df2efdfe973577108600",
+  "Japanese": "言葉",
+  "Reading": "ことば",
+  "Meaning": "word",
+  "Note": "a note",
+  "Sentence": "どんな言葉ですか",
+  "Sentence_Meaning": "What kind of word is this"
+}]
